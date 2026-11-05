@@ -12,6 +12,7 @@ I have created a text file with the following permissions:
 I removed the write permission from the user and added the execute permission
 \
 ![](images/B2/chmod1.png)
+\
 I have granted all the permissions to user, group, and others.
 \
 ![](images/B2/chmod2.png)
@@ -21,6 +22,6 @@ I allowed user to read, group to write, and others to execute.
 I have removed all the permissions from user, group, and others.
 \
 ![](images/B2/chmod4.png)
-
+\
 # Task B2
 ---
