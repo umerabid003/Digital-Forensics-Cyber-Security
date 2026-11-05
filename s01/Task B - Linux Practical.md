@@ -16,9 +16,11 @@ I removed the write permission from the user and added the execute permission
 I have granted all the permissions to user, group, and others.
 \
 ![](images/B2/chmod2.png)
+\
 I allowed user to read, group to write, and others to execute.
 \
 ![](images/B2/chmod3.png)
+\
 I have removed all the permissions from user, group, and others.
 \
 ![](images/B2/chmod4.png)
