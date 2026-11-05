@@ -4,7 +4,7 @@
 I have created a text file with the following permissions:
 * user can read and write
 * group can also read and write
-* others can only read
+* others can only read \
 \
 ![](images/B2/create_file.png)
 
